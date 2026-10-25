@@ -1,0 +1,26 @@
+{
+  "hash": "570be4ad",
+  "configHash": "f67b5660",
+  "lockfileHash": "edec3e9e",
+  "browserHash": "ff4765b6",
+  "optimized": {
+    "@inertiajs/vue3": {
+      "src": "../../node_modules/@inertiajs/vue3/dist/index.js",
+      "file": "@inertiajs_vue3.js",
+      "fileHash": "0aeccca5",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "d26c260f",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "vue.runtime.esm-bundler-DgbxkcxH": {
+      "file": "vue.runtime.esm-bundler-DgbxkcxH.js",
+      "isDynamicEntry": false
+    }
+  }
+}
